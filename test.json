@@ -11,13 +11,13 @@
 		},
 		{
 			"image": "https://picsum.photos/900/300",
-			"title": "Weitere News",
+			"title": "News am Do",
 			"date": "Donnerstag",
 			"description": "Trump am Donnerstag..."
 		},
 		{
 			"image": "https://picsum.photos/700/300",
-			"title": "Next News",
+			"title": "News am Fr",
 			"date": "Freitag",
 			"description": "Am Freitag..."
 		}
