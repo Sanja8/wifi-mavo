@@ -3,12 +3,18 @@
 	"subtitle": "Bye bye World - property subtitle",
 	"list": "property list",
 	"news": [
-		{},
 		{
 			"title": "Mein News Titel",
 			"date": "Di 09. April 2019 ",
 			"description": "Beschreibung...",
 			"image": "https://picsum.photos/800/300"
-		}
+		},
+		{
+			"image": "https://picsum.photos/800/300",
+			"title": "Weitere News",
+			"date": "Donnerstag",
+			"description": "Trump am Donnerstag..."
+		},
+		{}
 	]
 }
