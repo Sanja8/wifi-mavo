@@ -15,6 +15,11 @@
 			"date": "Donnerstag",
 			"description": "Trump am Donnerstag..."
 		},
-		{}
+		{
+			"image": "https://picsum.photos/800/300",
+			"title": "Next News",
+			"date": "Freitag",
+			"description": "Am Freitag..."
+		}
 	]
 }
