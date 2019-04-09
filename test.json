@@ -3,6 +3,7 @@
 	"subtitle": "Bye bye World - property subtitle",
 	"list": "property list",
 	"news": [
+		{},
 		{
 			"title": "Mein News Titel",
 			"date": "Di 09. April 2019 ",
